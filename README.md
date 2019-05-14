@@ -8,6 +8,3 @@
 
 - 32winapi  [api文档](http://timgolden.me.uk/pywin32-docs/win32api.html)
 - win32process [api文档](http://timgolden.me.uk/pywin32-docs/win32process.html)
-
-*模块列表*
-
